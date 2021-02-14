@@ -1,9 +1,7 @@
 #include <stdlib.h>
 
-
-int main ()
+int main()
 {
- printf("Hello World");
- remove 0;
+    printf("Hello World");
+    remove 0;
 }
-
